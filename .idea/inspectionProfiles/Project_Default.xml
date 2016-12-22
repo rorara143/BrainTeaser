@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidLintDeviceAdmin" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintInflateParams" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintInnerclassSeparator" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintInvalidId" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintInvalidResourceFolder" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintInvalidUsesTagAttribute" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintMangledCRLF" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintSupportAnnotationUsage" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintValidRestrictions" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>

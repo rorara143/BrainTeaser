@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF072BF5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFF4F4AD</color>
+    <color name="color_text">#FD3904FA</color>
+    <color name="cheat_button">#FFA2FFF4</color>
+    <color name="play_text">#FFF90212</color>
+    <color name="color_cheat_background">#FFEFB6DB</color>
+</resources>

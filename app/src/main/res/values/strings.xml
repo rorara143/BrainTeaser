@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BrainTeaser</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">CORRECT!</string>
+    <string name="incorrect_toast">INCORRECT!</string>
+
+
+    <string name="about_settings">About</string>
+    <string name="add_user">Add name</string>
+
+    <string name="about">Lorem ipsum dolor sit amet, dui et in,
+        lacinia ultricies urna viverra et, erat amet maecenas elit.
+        Magna sodales rutrum.
+        Sed pede in purus suspendisse et, platea metus eros
+        augue. Etiam adipisci wisi, amet proin dolor sed nullam.
+        Maecenas est sit nullam, vel fusce, dolor viverra dictum
+        eu sagittis, amet sed. Feugiat nullam voluptates vestibulum,
+        nonummy vitae nec vestibulum egestas, et congue lacus facilisis
+        blandit odio, sed gravida urna rhoncus lorem, eros accumsan
+        tempor pellentesque eu libero. Aliquam vehicula sem
+        est vel condimentum interdum. Consequat sapien neque
+        condimentum, vitae venenatis at velit, massa
+        ultricies turpis at mattis.</string>
+
+    <string name="button_next">Next</string>
+    <string name="question_one">1. Hurricanes and typhoons are the same thing.</string>
+    <string name="question_two">2. An American was the first man in space.</string>
+    <string name="question_three">3. "Cost" is one of the "4 C's" of diamond grading.</string>
+    <string name="question_four">4. Risotto is a common Italian rice dish.</string>
+    <string name="question_five">5. The "Forbidden City" is in Beijing.</string>
+    <string name="hello_welcome">Lets Begin</string>
+    <string name="button_cheat">CHEAT</string>
+    <string name="warning_message">Do you really want to cheat? </string>
+    <string name="show_answer">Show Answer</string>
+    <string name="judgement_message">Cheating is Bad!</string>
+    <string name="play_button">Play</string>
+    <string name="add_button">ADD</string>
+    <string name="list_all">List All</string>
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="id">ID</string>
+    <string name="add_data">Add Data</string>
+    <string name="view_all">View info</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="score">Score</string>
+
+
+</resources>
